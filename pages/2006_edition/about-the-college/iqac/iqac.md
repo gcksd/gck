@@ -45,14 +45,14 @@ of the college. The current roster of members of the cell is given below:
 
 ### IQAC Roaster
 
-  * Chairperson - Dr. Aravind Krishnan K., Principal
+  * Chairperson - Dr. Ananthapadmanabha A. L., Principal-in-Charge
   * Coordinator - Dr. Jijo P. U., Department of Physics
   * Members:
     * Dr. Rema M., Vice Principal
     * Sri. Vijayan K. K., Department of History
-    * Sri. Manoj Chathoth, Department of Economics
     * Dr. A. N. Manoharan, Department of Geology
+    * Dr. Gopinathan Nair, Dy. Director of Collegiate Educaiton (Retd.) (Alumni Rep.)
     * Dr. Jayasekhar S., Senior Scientist, CPCRI, Kasaragod (External Member)
     * Dr. Sijinkumar C., Department of Geology, Central University of Kerala (External Member)
-    * Sri. Sajith Dhanapalan, Office Supt.
-    * Sri. Shuhail T. P. - College Union Chaiperson (Student Representative)
+    * Senior Supt. of the College
+    * College Union Chaiperson (Student Representative)
