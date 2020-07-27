@@ -33,6 +33,7 @@ title: Principal
 
 # Principal
 
-## Dr. Aravind Krishnan K.
+## Dr. Ananthapadanabha A. L.
+   Associate Professor of Geology & Principal-in-Charge
 
-Address
+Address: principal@gck.ac.in
