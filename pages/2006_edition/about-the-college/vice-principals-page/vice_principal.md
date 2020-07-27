@@ -33,14 +33,8 @@ title: Vice Principal
 
 # Vice Principal
 
-####
-
-### Dr. Rema M.
-
-# Dr. Rema M.
+## Dr. Rema M.
 
 Associate Professor of Statistics
-
 Research &Department of Statistics
-
 Goverment College Kasaragod
