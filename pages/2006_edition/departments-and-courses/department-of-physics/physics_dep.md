@@ -38,34 +38,3 @@ department showcased a very good result in the 2006-'07 Kannur University
 examinations with a hundred percent pass result with one student bagging the
 second Rank in the University for BSc Physics.
 
-### FACULTY AT A GLANCE
-
-**SI No** | **Faculty Name** | **Designation  
-** | **Experience** | **Qualifications**  
----|---|---|---|---  
-1 | Dr. Jijo P. U. | Assistant Professor | 10 years | MSc, JRF(NET),PhD  
-4 |
-
-Sumesh K. S.
-
-| Assistant Professor | 6 years | MSc, NET  
-2 | Jubeesh M. K. |
-
-Assistant Professor
-
-| 2 years | MSc,NET,MPhil  
-3 |
-
-Dr. Simji P.
-
-| Assistant Professor | 2 year | MSc, PhD, NET  
-5 |
-
-Linsha C. L.
-
-| Assistant Professor | 6 Months | MSc, NET  
-5 |
-
-Dr. Nirmala Maria D'Souza
-
-| Guest Lecturer | 2 years | MSc, MPhil, PhD
