@@ -3,7 +3,7 @@ breadcrumb: <div id="breadcrumb"><a href="index.html">Home</a> <span class="brea
   <a href="about.html">About the College</a> <span class="breadcrumb_spacer">&gt;</span>
   <strong>50 Years</strong></div>
 headerimage: <img alt="" height="105" src="assets/2006/images/banners/about.jpg" width="472"/>
-html_title: 50 Years | Golden Jubilee
+html_title: NIRF 2020 | NIRF 2020 Ranking
 layout: 2006_default
 left_title:
 - <img alt="About The" border="0" height="33" src="assets/2006/content/gt/6c823ce509233ee7077ed1b754cb8830.png"
@@ -11,7 +11,7 @@ left_title:
 - <img alt="College" border="0" height="33" src="assets/2006/content/gt/50e0a1247d4d2e8d760ae187462b9408.png"
   title="College" width="111"/>
 old_website: true
-permalink: /50years.html
+permalink: /nirf2020.html
 published: true
 subnav:
 - <li class="sub_no sub_first"><a href="principal.html" title="Principal's Page">Principal's
@@ -28,13 +28,8 @@ subnav:
 - <li class="sub_no sub_ul_true"><a href="facilities.html" title="College Facilities">College
   Facilities</a></li>
 - <li class="sub_no"><a href="rti.html" title="RTI">RTI</a></li>
-title: Golden Jubilee
+title: NIRF 2020
 ---
 
-# Golden Jubilee
-
-Goden Jubilee celebration was inagurated by Sri. V. S. Achuthanandan Hon.
-Chief Minister of Kerala, During 3rd week of November 2007. The Golden Jubilee
-celebrations lasted over a year and culminated with a grand exhibition in
-2008. A Golden Jubilee Memorial Library building has been designed and is
-being constructed now.
+# NIRF 2020 Rankings
+The college has been ranked 83 among all the colleges in India as per the 2020 National Institutional Ranking Framework published by the MHRD, Government of India. It is the first time that the college has entered into the top 100 list.
