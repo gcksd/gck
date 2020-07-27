@@ -15,7 +15,7 @@ permalink: /library.html
 published: true
 title: Online Resources for Students
 ---
-
+# Online Resources
 ## Video on How to use the Internet
 
 * [Internet as Information Resource-video(Part-I)](http://egyankosh.ac.in/youtubevideo.jsp?src=WyYhbGfXrdg&feature&title=Internet%20as%20source%20of%20information%20I)
