@@ -22,7 +22,7 @@ subnav:
   Structure">Administrative Structure</a></li>
 - <li class="sub_no"><a href="college_development_council.html" title="College Development
   Committee">College Development Committee</a></li>
-- <li class="sub_no"><a href="nirf2020.html" title="50 Years">NIRF 2020</a></li>
+- <li class="sub_no"><a href="nirf2020.html" title="NIRF 2020">NIRF 2020</a></li>
 - <li class="sub_no"><a href="library.html" title="General Library">General Library</a></li>
 - <li class="sub_no sub_ul_true"><a href="facilities.html" title="College Facilities">College
   Facilities</a></li>
