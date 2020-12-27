@@ -28,15 +28,16 @@ title: Academic Admissions
 ### PG Admission 2020
 ### MSc Physics with Computational and Nano Scieces Specialization
 
-Applications to the newly sanctioned MSc Physocs with Computational and Nano Sciences Specialization is open. Applications can be downloaded and submitted from 28/12/2020 to 04/01/2021 to the college office. See instructions for more details.
+Applications to the newly sanctioned MSc Physocs with Computational and Nano Sciences Specialization is open. Applications can be downloaded and submitted from 28/12/2020 to 04/01/2021 to the college office.
 
-[Instructions](assets/2006/picture/upload/file/mscphys.pdf)
+* Number of Seats - 12.
+* Eligibility - BSc Physics with not less than 50 % marks or equivalent GPA excluding Subsidiaries/ Complementary Courses.
 
-[Affilation Order](assets/2006/picture/upload/file/msphysaff.pdf)
-
-[Application Form](assets/2006/picture/upload/file/mscphysappln.pdf)
+For more details applications, visit the admission portal. [CLICK HERE](http://admission.kannuruniversity.ac.in/)
 
 [Admission Criteria &
 Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges2020-final.pdf)
 
-For more details regarding the PG Admissions 2020-21 of the Kannur University, visit the admission portal. [CLICK HERE](http://admission.kannuruniversity.ac.in/) 
+[Instructions](assets/2006/picture/upload/file/mscphys.pdf)
+
+[Affilation Order](assets/2006/picture/upload/file/msphysaff.pdf)
