@@ -38,3 +38,5 @@ Applications to the newly sanctioned MSc Physocs with Computational and Nano Sci
 
 [Admission Criteria &
 Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges2020-final.pdf)
+
+For more details regarding the PG Admissions 2020-21 of the Kannur University, visit the admission portal. [CLICK HERE](http://admission.kannuruniversity.ac.in/) 
