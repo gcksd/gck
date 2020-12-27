@@ -29,12 +29,16 @@ Faculties](department-of-physics-faculties.html)
 ---|---  
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Jijo P. U.](sajeev.html)  
 Assistant Professor & Head
+
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Sumesh K. S.](savi.html)  
 Assistant Professor  
+
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Pradeep A. V.](vikas.html)  
 Assisatnt Professor  
+
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Jubeesh M. K.](dhanesh-
 thomas.html)
 Assisatnt Professor  
+
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Anumol C. N.](soumya-1.html)  
 Assisatnt Professor
