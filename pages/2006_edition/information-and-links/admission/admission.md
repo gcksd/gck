@@ -46,6 +46,4 @@ Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges202
 
 [Instructions](assets/2006/picture/upload/file/mscphys.pdf)
 
-[Affilation Order](assets/2006/picture/upload/file/msphysaff.pdf)
-
 Address for Communication: The Principal, Government College Kasaragod, Vidyanagar P.O., Kasaragod 671123.
