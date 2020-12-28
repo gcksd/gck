@@ -33,7 +33,13 @@ Applications to the newly sanctioned MSc Physocs with Computational and Nano Sci
 * Number of Seats - 12.
 * Eligibility - BSc Physics with not less than 50 % marks or equivalent GPA excluding Subsidiaries/ Complementary Courses.
 
-For more details and application forms, visit the Kannur University [Admission Portal](http://admission.kannuruniversity.ac.in/). 
+[Circular](http://admission.kannuruniversity.ac.in/Circular%20-%20Newgen%20Courses%20Admission.pdf)
+
+[Notification](http://admission.kannuruniversity.ac.in/Notification-Newgen%20Courses.pdf)
+
+[Application Form](http://admission.kannuruniversity.ac.in/newgenpg.pdf)
+
+For more details, visit the Kannur University [Admission Portal](http://admission.kannuruniversity.ac.in/). 
 
 [Admission Criteria &
 Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges2020-final.pdf)
