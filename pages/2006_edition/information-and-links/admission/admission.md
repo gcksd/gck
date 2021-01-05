@@ -25,7 +25,7 @@ title: Academic Admissions
 
 # Academic Admissions
 
-## PG Admission 2020
+## PG Admission 2020-2021
 ### MSc Physics with Computational and Nano Sciences Specialization
 
 Application to the programme is now closed.
