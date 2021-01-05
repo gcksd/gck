@@ -25,25 +25,20 @@ title: Academic Admissions
 
 # Academic Admissions
 
-### PG Admission 2020
+## PG Admission 2020
 ### MSc Physics with Computational and Nano Scieces Specialization
 
-Applications to the newly sanctioned MSc Physocs with Computational and Nano Sciences Specialization is open. Applications can be submitted from 28/12/2020 to 04/01/2021 to the college office.
+Application to the programme is now closed.
 
-* Number of Seats - 12.
-* Eligibility - BSc Physics with not less than 50 % marks or equivalent GPA excluding Subsidiaries/ Complementary Courses.
+### Rank List for Admission
+
+Will be published on 07 - Jan - 2021. Watch this space for the lists.
 
 [Circular](http://admission.kannuruniversity.ac.in/Circular%20-%20Newgen%20Courses%20Admission.pdf)
 
 [Notification](http://admission.kannuruniversity.ac.in/Notification-Newgen%20Courses.pdf)
 
-[Application Form](http://admission.kannuruniversity.ac.in/newgenpg.pdf)
-
 For more details, visit the Kannur University [Admission Portal](http://admission.kannuruniversity.ac.in/). 
 
 [Admission Criteria &
 Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges2020-final.pdf)
-
-[Instructions](assets/2006/picture/upload/file/mscphys.pdf)
-
-Address for Communication: The Principal, Government College Kasaragod, Vidyanagar P.O., Kasaragod 671123.
