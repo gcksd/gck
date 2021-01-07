@@ -39,7 +39,7 @@ Rank lists for admission is now publised below. Admission is on January 13 and 1
 * Muslim: 1
 * EWS: 1
 
-### Rank List for Admission
+### Rank Lists for Admission
 
 * [General Merit and Waiting List](assets/2006/picture/upload/file/GNML.pdf)
 
