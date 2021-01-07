@@ -28,11 +28,33 @@ title: Academic Admissions
 ## PG Admission 2020-2021
 ### MSc Physics with Computational and Nano Sciences Specialization
 
-Application to the programme is now closed.
+Rank lists for admission is now publised below. Admission is on January 13 and 14 at the college office. Candidates who are in the sure list are requested to be present in the college along with their parent/guardian. All original certificates, and their copies should be brought to the office for verification. Fee will be collected using POS machines and you should bring ATM/Debit/Credit cards for payment in the digital form. For any clarifications, contact the college office: 04994256027.
+
+#### Vacnacy Details:
+* Total Seats: 12
+* General Merit: 6
+* SC: 2
+* ST: 1
+* Ezhava: 1
+* Muslim: 1
+* EWS: 1
 
 ### Rank List for Admission
 
-Will be published on 07 - Jan - 2021. Watch this space for the lists.
+* [General Merit and Waiting List]()
+
+* [SC Merit and Waiting List]()
+
+* [ST Merit and Waiting List]()
+
+* [Ezhava Merit and Waiting List]()
+
+* [Muslim Merit and Waiting List]()
+
+* [EWS Merit and Waiting List]()
+
+
+### Admission related information
 
 [Circular](http://admission.kannuruniversity.ac.in/Circular%20-%20Newgen%20Courses%20Admission.pdf)
 
