@@ -41,17 +41,17 @@ Rank lists for admission is now publised below. Admission is on January 13 and 1
 
 ### Rank List for Admission
 
-* [General Merit and Waiting List]()
+* [General Merit and Waiting List](assets/2006/picture/upload/file/GNML.pdf)
 
-* [SC Merit and Waiting List]()
+* [SC Merit and Waiting List](assets/2006/picture/upload/file/SCML.pdf)
 
-* [ST Merit and Waiting List]()
+* [ST Merit and Waiting List](assets/2006/picture/upload/file/STWL.pdf)
 
-* [Ezhava Merit and Waiting List]()
+* [Ezhava Merit and Waiting List](assets/2006/picture/upload/file/EZML.pdf)
 
-* [Muslim Merit and Waiting List]()
+* [Muslim Merit and Waiting List](assets/2006/picture/upload/file/MUML.pdf)
 
-* [EWS Merit and Waiting List]()
+* [EWS Merit and Waiting List](assets/2006/picture/upload/file/EWSML.pdf)
 
 
 ### Admission related information
